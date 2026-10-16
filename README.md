@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-c83143) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [qwen-image-2-prompts-pt](https://github.com/iqfu20m0/qwen-image-2-prompts-pt)
+- **Same model, other languages** — 9 more language builds: 中文 [qwen-image-2-api-cn](https://github.com/ux7qqrhel/qwen-image-2-api-cn) · Deutsch `qwen-image-2-api-de` · Español `qwen-image-2-api-es` · Français `qwen-image-2-api-fr` · Relay/gateway [qwen-image-2-api-gateway](https://github.com/mif235nq/qwen-image-2-api-gateway) · Bahasa [qwen-image-2-api-id](https://github.com/yoocjl5x6-i7gc/qwen-image-2-api-id) · 日本語 `qwen-image-2-api-ja` · 한국어 `qwen-image-2-api-ko` · Русский [qwen-image-2-api-ru](https://github.com/lx34vfo8md/qwen-image-2-api-ru)
+- **More models in this language** — [midjourney-api-pt](https://github.com/l-ca0/midjourney-api-pt) · [gemini-2-5-flash-image-preview-api-pt](https://github.com/ycx8l0/gemini-2-5-flash-image-preview-api-pt) · [nano-banana-api-pt](https://github.com/erujt71i1lx/nano-banana-api-pt) · [gemini-3-1-flash-image-preview-api-pt](https://github.com/hutjwux0nt9h/gemini-3-1-flash-image-preview-api-pt) · [nano-banana-2-api-pt](https://github.com/ydkd8kdkl8n/nano-banana-2-api-pt) · [gemini-3-pro-image-preview-api-pt](https://github.com/qss2d-66qb2n7/gemini-3-pro-image-preview-api-pt)
+- **Topic hubs** — every build of this model, all languages: [qwen-image-2](https://github.com/topics/qwen-image-2) · [qwen-image-2-api](https://github.com/topics/qwen-image-2-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
